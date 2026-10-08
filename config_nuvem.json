@@ -1,0 +1,10 @@
+{
+  "listaUrl": "https://www.autogerencia.com.br/Compacto/v4Estoque/ListarVeiculosCompact.aspx",
+  "fusoHorario": "America/Cuiaba",
+  "agenda": [["00:00", "colocar"], ["09:00", "tirar"], ["12:00", "colocar"], ["15:00", "tirar"]],
+  "concorrencia": 4,
+  "tentativas": 2,
+  "ordem": "lista",
+  "palavras": "",
+  "tempoMaximoMin": 50
+}

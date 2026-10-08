@@ -1,0 +1,7 @@
+{
+  "name": "subir-anuncios-nuvem",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Sobe os anúncios sozinho na nuvem do GitHub",
+  "dependencies": { "playwright": "1.56.0" }
+}
