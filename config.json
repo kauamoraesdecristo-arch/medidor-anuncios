@@ -1,0 +1,13 @@
+{
+  "loja": {
+    "id": "8720",
+    "slugs": ["tk-tratores"]
+  },
+  "listas": [
+    { "nome": "Implementos agrícolas", "url": "https://www.tratoresecolheitadeiras.com.br/venda/implementos-agricolas/8" },
+    { "nome": "Tratores", "url": "https://www.tratoresecolheitadeiras.com.br/venda/trator/5" }
+  ],
+  "topoLimite": 3,
+  "fusoHorario": "America/Cuiaba",
+  "pausaEntrePaginasSegundos": 3
+}
