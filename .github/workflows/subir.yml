@@ -1,0 +1,64 @@
+name: Subir anúncios
+
+on:
+  schedule:
+    # Horários em UTC (Cuiabá = UTC-4). Os minutos ":03" evitam o horário de pico do GitHub.
+    - cron: '3 11 * * *'    # 07:03 Cuiabá  -> colocar o ponto
+    - cron: '3 15 * * *'    # 11:03 Cuiabá  -> tirar o ponto
+    - cron: '3 17 * * *'    # 13:03 Cuiabá  -> colocar o ponto
+    - cron: '3 21 * * *'    # 17:03 Cuiabá  -> tirar o ponto
+    - cron: '25 21 * * *'   # 17:25 Cuiabá  -> conferência final (tira o ponto de quem sobrou)
+    # Para rodar só no fim de semana, troque o último "*" de cada linha por "0,6". Dias úteis: "1-5".
+  workflow_dispatch:
+    inputs:
+      diagnostico:
+        description: 'Só testar o login (não altera nada)'
+        type: boolean
+        default: false
+      modo:
+        description: 'colocar, tirar ou auto (pela hora)'
+        type: choice
+        options: [auto, colocar, tirar]
+        default: auto
+      limite:
+        description: 'Quantidade de anúncios (vazio = todos). Use 3 nos testes.'
+        type: string
+        default: ''
+      simular:
+        description: 'Só simular (não salva nada)'
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+concurrency:
+  group: subir-anuncios
+  cancel-in-progress: false
+
+jobs:
+  subir:
+    runs-on: ubuntu-latest
+    timeout-minutes: 70
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Instalar o navegador
+        run: |
+          npm install --no-audit --no-fund
+          npx playwright install --with-deps chromium
+
+      - name: Subir os anúncios
+        run: node subir_nuvem.js
+        env:
+          AG_USUARIO: ${{ secrets.AG_USUARIO }}
+          AG_SENHA: ${{ secrets.AG_SENHA }}
+          AG_EMPRESA: ${{ secrets.AG_EMPRESA }}
+          MODO: ${{ github.event.inputs.modo || 'auto' }}
+          LIMITE: ${{ github.event.inputs.limite || '' }}
+          SIMULAR: ${{ github.event.inputs.simular || 'false' }}
+          DIAGNOSTICO: ${{ github.event.inputs.diagnostico || 'false' }}
