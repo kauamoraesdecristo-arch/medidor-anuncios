@@ -1,16 +1,16 @@
 # Posição dos anúncios — resumo
 
-Atualizado em 2026-10-09 14:58:07 (horário local) · 12 leituras no total.
+Atualizado em 2026-10-09 19:11:11 (horário local) · 14 leituras no total.
 
 Como ler: "no topo" significa que no máximo 3 anúncios de outras lojas (fora os patrocinados) aparecem acima do primeiro anúncio nosso na lista "Mais recentes".
 
 ## Implementos agrícolas
 
-**Agora (2026-10-09 14:58:03):** posição **1ª** · **0** anúncio(s) de outras lojas acima · 19 nosso(s) na 1ª página.
+**Agora (2026-10-09 19:11:07):** nenhum anúncio nosso nos 20 primeiros da lista. Estamos abaixo da 1ª página.
 
 ### Tempo no topo (até 3 anúncios de outras lojas acima)
 
-Em 50% das 6 leituras estávamos no topo.
+Em 43% das 7 leituras estávamos no topo.
 
 | Períodos seguidos no topo | Média | Mediana | Maior |
 |---|---|---|---|
@@ -26,12 +26,13 @@ _Dados ainda insuficientes para sugerir um intervalo (preciso de pelo menos 2 di
 | 09h | 2 | 50% | 4,5 | — |
 | 14h | 1 | 100% | 0 | — |
 | 15h | 1 | 100% | 2 | — |
-| 19h | 1 | 0% | — | — |
+| 19h | 2 | 0% | — | — |
 
 ### Últimas 12 leituras
 
 | Quando | Posição | Outras lojas acima | Nossos na página | Obs. |
 |---|---|---|---|---|
+| 10-09 19:11 | fora da 1ª página | ≥ 20 | 0 | |
 | 10-09 14:58 | 1ª | 0 | 19 | |
 | 10-09 09:07 | 1ª | 0 | 20 | |
 | 10-09 01:59 | fora da 1ª página | ≥ 20 | 0 | |
@@ -41,11 +42,11 @@ _Dados ainda insuficientes para sugerir um intervalo (preciso de pelo menos 2 di
 
 ## Tratores
 
-**Agora (2026-10-09 14:58:03):** posição **3ª** · **0** anúncio(s) de outras lojas acima · 13 nosso(s) na 1ª página.
+**Agora (2026-10-09 19:11:07):** nenhum anúncio nosso nos 20 primeiros da lista. Estamos abaixo da 1ª página.
 
 ### Tempo no topo (até 3 anúncios de outras lojas acima)
 
-Em 17% das 6 leituras estávamos no topo.
+Em 14% das 7 leituras estávamos no topo.
 
 | Períodos seguidos no topo | Média | Mediana | Maior |
 |---|---|---|---|
@@ -61,12 +62,13 @@ _Dados ainda insuficientes para sugerir um intervalo (preciso de pelo menos 2 di
 | 09h | 2 | 0% | 4 | — |
 | 14h | 1 | 100% | 0 | — |
 | 15h | 1 | 0% | 5 | — |
-| 19h | 1 | 0% | — | — |
+| 19h | 2 | 0% | — | — |
 
 ### Últimas 12 leituras
 
 | Quando | Posição | Outras lojas acima | Nossos na página | Obs. |
 |---|---|---|---|---|
+| 10-09 19:11 | fora da 1ª página | ≥ 20 | 0 | |
 | 10-09 14:58 | 3ª | 0 | 13 | |
 | 10-09 09:07 | 7ª | 4 | 14 | |
 | 10-09 01:59 | fora da 1ª página | ≥ 20 | 0 | |
