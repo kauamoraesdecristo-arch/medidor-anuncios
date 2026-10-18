@@ -1,16 +1,16 @@
 # Posição dos anúncios — resumo
 
-Atualizado em 2026-10-18 09:11:51 (horário local) · 104 leituras no total.
+Atualizado em 2026-10-18 12:50:31 (horário local) · 106 leituras no total.
 
 Como ler: "no topo" significa que no máximo 3 anúncios de outras lojas (fora os patrocinados) aparecem acima do primeiro anúncio nosso na lista "Mais recentes".
 
 ## Implementos agrícolas
 
-**Agora (2026-10-18 09:11:46):** nenhum anúncio nosso nos 20 primeiros da lista. Estamos abaixo da 1ª página.
+**Agora (2026-10-18 12:50:27):** nenhum anúncio nosso nos 20 primeiros da lista. Estamos abaixo da 1ª página.
 
 ### Tempo no topo (até 3 anúncios de outras lojas acima)
 
-Em 21% das 52 leituras estávamos no topo.
+Em 21% das 53 leituras estávamos no topo.
 
 | Períodos seguidos no topo | Média | Mediana | Maior |
 |---|---|---|---|
@@ -30,7 +30,7 @@ _Dados ainda insuficientes para sugerir um intervalo (preciso de pelo menos 2 di
 | 09h | 5 | 40% | 3,3 | — |
 | 10h | 2 | 0% | — | — |
 | 11h | 3 | 0% | — | — |
-| 12h | 1 | 0% | — | — |
+| 12h | 2 | 0% | — | — |
 | 13h | 1 | 100% | 0 | — |
 | 14h | 4 | 25% | 4,5 | — |
 | 15h | 2 | 50% | 2 | — |
@@ -47,6 +47,7 @@ _Dados ainda insuficientes para sugerir um intervalo (preciso de pelo menos 2 di
 
 | Quando | Posição | Outras lojas acima | Nossos na página | Obs. |
 |---|---|---|---|---|
+| 10-18 12:50 | fora da 1ª página | ≥ 20 | 0 | |
 | 10-18 09:11 | fora da 1ª página | ≥ 20 | 0 | |
 | 10-18 05:02 | fora da 1ª página | ≥ 20 | 0 | |
 | 10-18 00:20 | fora da 1ª página | ≥ 20 | 0 | |
@@ -58,15 +59,14 @@ _Dados ainda insuficientes para sugerir um intervalo (preciso de pelo menos 2 di
 | 10-17 05:14 | fora da 1ª página | ≥ 20 | 0 | |
 | 10-17 00:56 | fora da 1ª página | ≥ 20 | 0 | |
 | 10-16 20:22 | fora da 1ª página | ≥ 20 | 0 | |
-| 10-16 18:02 | fora da 1ª página | ≥ 20 | 0 | |
 
 ## Tratores
 
-**Agora (2026-10-18 09:11:46):** nenhum anúncio nosso nos 20 primeiros da lista. Estamos abaixo da 1ª página.
+**Agora (2026-10-18 12:50:27):** nenhum anúncio nosso nos 20 primeiros da lista. Estamos abaixo da 1ª página.
 
 ### Tempo no topo (até 3 anúncios de outras lojas acima)
 
-Em 12% das 52 leituras estávamos no topo.
+Em 11% das 53 leituras estávamos no topo.
 
 | Períodos seguidos no topo | Média | Mediana | Maior |
 |---|---|---|---|
@@ -86,7 +86,7 @@ _Dados ainda insuficientes para sugerir um intervalo (preciso de pelo menos 2 di
 | 09h | 5 | 20% | 2,5 | — |
 | 10h | 2 | 0% | — | — |
 | 11h | 3 | 0% | — | — |
-| 12h | 1 | 0% | — | — |
+| 12h | 2 | 0% | — | — |
 | 13h | 1 | 0% | 6 | — |
 | 14h | 4 | 50% | 0 | — |
 | 15h | 2 | 0% | 5 | — |
@@ -103,6 +103,7 @@ _Dados ainda insuficientes para sugerir um intervalo (preciso de pelo menos 2 di
 
 | Quando | Posição | Outras lojas acima | Nossos na página | Obs. |
 |---|---|---|---|---|
+| 10-18 12:50 | fora da 1ª página | ≥ 20 | 0 | |
 | 10-18 09:11 | fora da 1ª página | ≥ 20 | 0 | |
 | 10-18 05:02 | fora da 1ª página | ≥ 20 | 0 | |
 | 10-18 00:20 | fora da 1ª página | ≥ 20 | 0 | |
@@ -114,5 +115,4 @@ _Dados ainda insuficientes para sugerir um intervalo (preciso de pelo menos 2 di
 | 10-17 05:14 | fora da 1ª página | ≥ 20 | 0 | |
 | 10-17 00:56 | fora da 1ª página | ≥ 20 | 0 | |
 | 10-16 20:22 | fora da 1ª página | ≥ 20 | 0 | |
-| 10-16 18:02 | fora da 1ª página | ≥ 20 | 0 | |
 
