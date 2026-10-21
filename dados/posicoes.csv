@@ -135,3 +135,5 @@ data_hora_local,data_hora_utc,lista,status,total_anuncios,primeira_posicao,acima
 2026-10-20 21:58:25,2026-10-21T01:58:25.999Z,Tratores,fora_da_pagina,20,,,,,0,
 2026-10-21 03:29:31,2026-10-21T07:29:31.855Z,Implementos agrícolas,fora_da_pagina,20,,,,,0,
 2026-10-21 03:29:31,2026-10-21T07:29:31.855Z,Tratores,fora_da_pagina,20,,,,,0,
+2026-10-21 09:11:08,2026-10-21T13:11:08.310Z,Implementos agrícolas,ok,20,2,1,0,1,19,19
+2026-10-21 09:11:08,2026-10-21T13:11:08.310Z,Tratores,ok,20,5,4,3,1,15,8
