@@ -1,16 +1,16 @@
 # Posição dos anúncios — resumo
 
-Atualizado em 2026-10-21 20:37:43 (horário local) · 144 leituras no total.
+Atualizado em 2026-10-22 02:02:56 (horário local) · 146 leituras no total.
 
 Como ler: "no topo" significa que no máximo 3 anúncios de outras lojas (fora os patrocinados) aparecem acima do primeiro anúncio nosso na lista "Mais recentes".
 
 ## Implementos agrícolas
 
-**Agora (2026-10-21 20:37:38):** nenhum anúncio nosso nos 20 primeiros da lista. Estamos abaixo da 1ª página.
+**Agora (2026-10-22 02:02:52):** nenhum anúncio nosso nos 20 primeiros da lista. Estamos abaixo da 1ª página.
 
 ### Tempo no topo (até 3 anúncios de outras lojas acima)
 
-Em 22% das 72 leituras estávamos no topo.
+Em 22% das 73 leituras estávamos no topo.
 
 | Períodos seguidos no topo | Média | Mediana | Maior |
 |---|---|---|---|
@@ -24,7 +24,7 @@ _Dados ainda insuficientes para sugerir um intervalo (preciso de pelo menos 2 di
 |---|---|---|---|---|
 | 00h | 4 | 0% | — | — |
 | 01h | 3 | 33% | 5,5 | — |
-| 02h | 1 | 0% | — | — |
+| 02h | 2 | 0% | — | — |
 | 03h | 2 | 0% | — | — |
 | 05h | 6 | 0% | — | — |
 | 07h | 2 | 50% | 0 | — |
@@ -49,6 +49,7 @@ _Dados ainda insuficientes para sugerir um intervalo (preciso de pelo menos 2 di
 
 | Quando | Posição | Outras lojas acima | Nossos na página | Obs. |
 |---|---|---|---|---|
+| 10-22 02:02 | fora da 1ª página | ≥ 20 | 0 | |
 | 10-21 20:37 | fora da 1ª página | ≥ 20 | 0 | |
 | 10-21 17:57 | 2ª | 1 | 19 | |
 | 10-21 14:14 | fora da 1ª página | ≥ 20 | 0 | |
@@ -60,15 +61,14 @@ _Dados ainda insuficientes para sugerir um intervalo (preciso de pelo menos 2 di
 | 10-20 12:55 | fora da 1ª página | ≥ 20 | 0 | |
 | 10-20 08:04 | 19ª | 18 | 2 | |
 | 10-20 02:32 | fora da 1ª página | ≥ 20 | 0 | |
-| 10-19 21:13 | fora da 1ª página | ≥ 20 | 0 | |
 
 ## Tratores
 
-**Agora (2026-10-21 20:37:38):** nenhum anúncio nosso nos 20 primeiros da lista. Estamos abaixo da 1ª página.
+**Agora (2026-10-22 02:02:52):** nenhum anúncio nosso nos 20 primeiros da lista. Estamos abaixo da 1ª página.
 
 ### Tempo no topo (até 3 anúncios de outras lojas acima)
 
-Em 14% das 72 leituras estávamos no topo.
+Em 14% das 73 leituras estávamos no topo.
 
 | Períodos seguidos no topo | Média | Mediana | Maior |
 |---|---|---|---|
@@ -82,7 +82,7 @@ _Dados ainda insuficientes para sugerir um intervalo (preciso de pelo menos 2 di
 |---|---|---|---|---|
 | 00h | 4 | 0% | — | — |
 | 01h | 3 | 33% | 0 | — |
-| 02h | 1 | 0% | — | — |
+| 02h | 2 | 0% | — | — |
 | 03h | 2 | 0% | — | — |
 | 05h | 6 | 0% | — | — |
 | 07h | 2 | 50% | 2 | — |
@@ -107,6 +107,7 @@ _Dados ainda insuficientes para sugerir um intervalo (preciso de pelo menos 2 di
 
 | Quando | Posição | Outras lojas acima | Nossos na página | Obs. |
 |---|---|---|---|---|
+| 10-22 02:02 | fora da 1ª página | ≥ 20 | 0 | |
 | 10-21 20:37 | fora da 1ª página | ≥ 20 | 0 | |
 | 10-21 17:57 | 10ª | 6 | 11 | |
 | 10-21 14:14 | fora da 1ª página | ≥ 20 | 0 | |
@@ -118,5 +119,4 @@ _Dados ainda insuficientes para sugerir um intervalo (preciso de pelo menos 2 di
 | 10-20 12:55 | fora da 1ª página | ≥ 20 | 0 | |
 | 10-20 08:04 | fora da 1ª página | ≥ 20 | 0 | |
 | 10-20 02:32 | fora da 1ª página | ≥ 20 | 0 | |
-| 10-19 21:13 | fora da 1ª página | ≥ 20 | 0 | |
 
