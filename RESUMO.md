@@ -1,22 +1,22 @@
 # Posição dos anúncios — resumo
 
-Atualizado em 2026-10-25 16:45:14 (horário local) · 190 leituras no total.
+Atualizado em 2026-10-25 19:10:57 (horário local) · 192 leituras no total.
 
 Como ler: "no topo" significa que no máximo 3 anúncios de outras lojas (fora os patrocinados) aparecem acima do primeiro anúncio nosso na lista "Mais recentes".
 
 ## Implementos agrícolas
 
-**Agora (2026-10-25 16:45:10):** nenhum anúncio nosso nos 20 primeiros da lista. Estamos abaixo da 1ª página.
+**Agora (2026-10-25 19:10:53):** posição **1ª** · **0** anúncio(s) de outras lojas acima · 20 nosso(s) na 1ª página.
 
 ### Tempo no topo (até 3 anúncios de outras lojas acima)
 
-Em 23% das 95 leituras estávamos no topo.
+Em 24% das 96 leituras estávamos no topo.
 
 | Períodos seguidos no topo | Média | Mediana | Maior |
 |---|---|---|---|
-| 22 | 30 min | 30 min | 30 min |
+| 23 | 30 min | 30 min | 30 min |
 
-_Dados ainda insuficientes para sugerir um intervalo (preciso de pelo menos 2 dias e 3 períodos)._
+**Sugestão automática:** subir a cada cerca de **30 min** mantém os anúncios no topo na maior parte do tempo. É uma estimativa pelos dados até agora; revise depois de uma semana.
 
 ### Por hora do dia (horário local)
 
@@ -40,7 +40,7 @@ _Dados ainda insuficientes para sugerir um intervalo (preciso de pelo menos 2 di
 | 16h | 5 | 40% | 0 | — |
 | 17h | 7 | 57% | 0,5 | — |
 | 18h | 3 | 0% | — | — |
-| 19h | 9 | 22% | 6 | — |
+| 19h | 10 | 30% | 4,5 | — |
 | 20h | 6 | 17% | 1 | — |
 | 21h | 4 | 25% | 3 | — |
 | 22h | 2 | 0% | 14 | — |
@@ -50,6 +50,7 @@ _Dados ainda insuficientes para sugerir um intervalo (preciso de pelo menos 2 di
 
 | Quando | Posição | Outras lojas acima | Nossos na página | Obs. |
 |---|---|---|---|---|
+| 10-25 19:10 | 1ª | 0 | 20 | |
 | 10-25 16:45 | fora da 1ª página | ≥ 20 | 0 | |
 | 10-25 13:49 | fora da 1ª página | ≥ 20 | 0 | |
 | 10-25 10:20 | fora da 1ª página | ≥ 20 | 0 | |
@@ -61,21 +62,20 @@ _Dados ainda insuficientes para sugerir um intervalo (preciso de pelo menos 2 di
 | 10-24 12:54 | fora da 1ª página | ≥ 20 | 0 | |
 | 10-24 09:16 | fora da 1ª página | ≥ 20 | 0 | |
 | 10-24 05:04 | fora da 1ª página | ≥ 20 | 0 | |
-| 10-24 00:27 | fora da 1ª página | ≥ 20 | 0 | |
 
 ## Tratores
 
-**Agora (2026-10-25 16:45:10):** nenhum anúncio nosso nos 20 primeiros da lista. Estamos abaixo da 1ª página.
+**Agora (2026-10-25 19:10:53):** posição **4ª** · **0** anúncio(s) de outras lojas acima · 15 nosso(s) na 1ª página.
 
 ### Tempo no topo (até 3 anúncios de outras lojas acima)
 
-Em 15% das 95 leituras estávamos no topo.
+Em 16% das 96 leituras estávamos no topo.
 
 | Períodos seguidos no topo | Média | Mediana | Maior |
 |---|---|---|---|
-| 14 | 30 min | 30 min | 30 min |
+| 15 | 30 min | 30 min | 30 min |
 
-_Dados ainda insuficientes para sugerir um intervalo (preciso de pelo menos 2 dias e 3 períodos)._
+**Sugestão automática:** subir a cada cerca de **30 min** mantém os anúncios no topo na maior parte do tempo. É uma estimativa pelos dados até agora; revise depois de uma semana.
 
 ### Por hora do dia (horário local)
 
@@ -99,7 +99,7 @@ _Dados ainda insuficientes para sugerir um intervalo (preciso de pelo menos 2 di
 | 16h | 5 | 40% | 1 | — |
 | 17h | 7 | 43% | 1,8 | — |
 | 18h | 3 | 0% | — | — |
-| 19h | 9 | 0% | 8,5 | — |
+| 19h | 10 | 10% | 5,7 | — |
 | 20h | 6 | 17% | 0 | — |
 | 21h | 4 | 0% | 8 | — |
 | 22h | 2 | 0% | — | — |
@@ -109,6 +109,7 @@ _Dados ainda insuficientes para sugerir um intervalo (preciso de pelo menos 2 di
 
 | Quando | Posição | Outras lojas acima | Nossos na página | Obs. |
 |---|---|---|---|---|
+| 10-25 19:10 | 4ª | 0 | 15 | |
 | 10-25 16:45 | fora da 1ª página | ≥ 20 | 0 | |
 | 10-25 13:49 | fora da 1ª página | ≥ 20 | 0 | |
 | 10-25 10:20 | fora da 1ª página | ≥ 20 | 0 | |
@@ -120,5 +121,4 @@ _Dados ainda insuficientes para sugerir um intervalo (preciso de pelo menos 2 di
 | 10-24 12:54 | fora da 1ª página | ≥ 20 | 0 | |
 | 10-24 09:16 | fora da 1ª página | ≥ 20 | 0 | |
 | 10-24 05:04 | fora da 1ª página | ≥ 20 | 0 | |
-| 10-24 00:27 | fora da 1ª página | ≥ 20 | 0 | |
 
