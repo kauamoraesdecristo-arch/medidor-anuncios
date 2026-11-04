@@ -1,16 +1,16 @@
 # Posição dos anúncios — resumo
 
-Atualizado em 2026-11-03 19:13:45 (horário local) · 270 leituras no total.
+Atualizado em 2026-11-03 23:11:03 (horário local) · 272 leituras no total.
 
 Como ler: "no topo" significa que no máximo 3 anúncios de outras lojas (fora os patrocinados) aparecem acima do primeiro anúncio nosso na lista "Mais recentes".
 
 ## Implementos agrícolas
 
-**Agora (2026-11-03 19:13:40):** nenhum anúncio nosso nos 20 primeiros da lista. Estamos abaixo da 1ª página.
+**Agora (2026-11-03 23:10:59):** nenhum anúncio nosso nos 20 primeiros da lista. Estamos abaixo da 1ª página.
 
 ### Tempo no topo (até 3 anúncios de outras lojas acima)
 
-Em 22% das 135 leituras estávamos no topo.
+Em 22% das 136 leituras estávamos no topo.
 
 | Períodos seguidos no topo | Média | Mediana | Maior |
 |---|---|---|---|
@@ -45,12 +45,13 @@ Em 22% das 135 leituras estávamos no topo.
 | 20h | 8 | 13% | 1 | — |
 | 21h | 7 | 14% | 7 | — |
 | 22h | 4 | 0% | 14 | — |
-| 23h | 1 | 100% | 1 | — |
+| 23h | 2 | 50% | 1 | — |
 
 ### Últimas 12 leituras
 
 | Quando | Posição | Outras lojas acima | Nossos na página | Obs. |
 |---|---|---|---|---|
+| 11-03 23:10 | fora da 1ª página | ≥ 20 | 0 | |
 | 11-03 19:13 | fora da 1ª página | ≥ 20 | 0 | |
 | 11-03 13:45 | 11ª | 10 | 10 | |
 | 11-03 05:59 | fora da 1ª página | ≥ 20 | 0 | |
@@ -62,15 +63,14 @@ Em 22% das 135 leituras estávamos no topo.
 | 11-01 14:31 | fora da 1ª página | ≥ 20 | 0 | |
 | 11-01 09:11 | fora da 1ª página | ≥ 20 | 0 | |
 | 11-01 01:51 | fora da 1ª página | ≥ 20 | 0 | |
-| 10-31 19:40 | fora da 1ª página | ≥ 20 | 0 | |
 
 ## Tratores
 
-**Agora (2026-11-03 19:13:40):** nenhum anúncio nosso nos 20 primeiros da lista. Estamos abaixo da 1ª página.
+**Agora (2026-11-03 23:10:59):** nenhum anúncio nosso nos 20 primeiros da lista. Estamos abaixo da 1ª página.
 
 ### Tempo no topo (até 3 anúncios de outras lojas acima)
 
-Em 13% das 135 leituras estávamos no topo.
+Em 13% das 136 leituras estávamos no topo.
 
 | Períodos seguidos no topo | Média | Mediana | Maior |
 |---|---|---|---|
@@ -105,12 +105,13 @@ Em 13% das 135 leituras estávamos no topo.
 | 20h | 8 | 13% | 0 | — |
 | 21h | 7 | 0% | 8,5 | — |
 | 22h | 4 | 0% | — | — |
-| 23h | 1 | 0% | 9 | — |
+| 23h | 2 | 0% | 9 | — |
 
 ### Últimas 12 leituras
 
 | Quando | Posição | Outras lojas acima | Nossos na página | Obs. |
 |---|---|---|---|---|
+| 11-03 23:10 | fora da 1ª página | ≥ 20 | 0 | |
 | 11-03 19:13 | fora da 1ª página | ≥ 20 | 0 | |
 | 11-03 13:45 | fora da 1ª página | ≥ 20 | 0 | |
 | 11-03 05:59 | fora da 1ª página | ≥ 20 | 0 | |
@@ -122,5 +123,4 @@ Em 13% das 135 leituras estávamos no topo.
 | 11-01 14:31 | fora da 1ª página | ≥ 20 | 0 | |
 | 11-01 09:11 | fora da 1ª página | ≥ 20 | 0 | |
 | 11-01 01:51 | fora da 1ª página | ≥ 20 | 0 | |
-| 10-31 19:40 | fora da 1ª página | ≥ 20 | 0 | |
 
