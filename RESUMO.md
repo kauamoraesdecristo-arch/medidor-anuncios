@@ -1,16 +1,16 @@
 # Posição dos anúncios — resumo
 
-Atualizado em 2026-11-14 05:22:10 (horário local) · 348 leituras no total.
+Atualizado em 2026-11-14 12:03:52 (horário local) · 350 leituras no total.
 
 Como ler: "no topo" significa que no máximo 3 anúncios de outras lojas (fora os patrocinados) aparecem acima do primeiro anúncio nosso na lista "Mais recentes".
 
 ## Implementos agrícolas
 
-**Agora (2026-11-14 05:22:06):** nenhum anúncio nosso nos 20 primeiros da lista. Estamos abaixo da 1ª página.
+**Agora (2026-11-14 12:03:48):** nenhum anúncio nosso nos 20 primeiros da lista. Estamos abaixo da 1ª página.
 
 ### Tempo no topo (até 3 anúncios de outras lojas acima)
 
-Em 25% das 174 leituras estávamos no topo.
+Em 25% das 175 leituras estávamos no topo.
 
 | Períodos seguidos no topo | Média | Mediana | Maior |
 |---|---|---|---|
@@ -34,7 +34,7 @@ Em 25% das 174 leituras estávamos no topo.
 | 09h | 10 | 40% | 2,6 | — |
 | 10h | 3 | 0% | — | — |
 | 11h | 9 | 56% | 0,4 | — |
-| 12h | 7 | 29% | 2 | — |
+| 12h | 8 | 25% | 2 | — |
 | 13h | 7 | 43% | 4 | — |
 | 14h | 9 | 11% | 9 | — |
 | 15h | 7 | 14% | 8,7 | — |
@@ -51,6 +51,7 @@ Em 25% das 174 leituras estávamos no topo.
 
 | Quando | Posição | Outras lojas acima | Nossos na página | Obs. |
 |---|---|---|---|---|
+| 11-14 12:03 | fora da 1ª página | ≥ 20 | 0 | |
 | 11-14 05:22 | fora da 1ª página | ≥ 20 | 0 | |
 | 11-13 22:17 | fora da 1ª página | ≥ 20 | 0 | |
 | 11-13 17:55 | 2ª | 1 | 19 | |
@@ -62,15 +63,14 @@ Em 25% das 174 leituras estávamos no topo.
 | 11-11 22:53 | fora da 1ª página | ≥ 20 | 0 | |
 | 11-11 17:54 | 1ª | 0 | 20 | |
 | 11-11 11:07 | 1ª | 0 | 20 | |
-| 11-11 03:05 | fora da 1ª página | ≥ 20 | 0 | |
 
 ## Tratores
 
-**Agora (2026-11-14 05:22:06):** nenhum anúncio nosso nos 20 primeiros da lista. Estamos abaixo da 1ª página.
+**Agora (2026-11-14 12:03:48):** nenhum anúncio nosso nos 20 primeiros da lista. Estamos abaixo da 1ª página.
 
 ### Tempo no topo (até 3 anúncios de outras lojas acima)
 
-Em 15% das 174 leituras estávamos no topo.
+Em 15% das 175 leituras estávamos no topo.
 
 | Períodos seguidos no topo | Média | Mediana | Maior |
 |---|---|---|---|
@@ -94,7 +94,7 @@ Em 15% das 174 leituras estávamos no topo.
 | 09h | 10 | 20% | 2 | — |
 | 10h | 3 | 0% | — | — |
 | 11h | 9 | 33% | 4,4 | — |
-| 12h | 7 | 0% | 13 | — |
+| 12h | 8 | 0% | 13 | — |
 | 13h | 7 | 14% | 5 | — |
 | 14h | 9 | 22% | 0 | — |
 | 15h | 7 | 0% | 5,5 | — |
@@ -111,6 +111,7 @@ Em 15% das 174 leituras estávamos no topo.
 
 | Quando | Posição | Outras lojas acima | Nossos na página | Obs. |
 |---|---|---|---|---|
+| 11-14 12:03 | fora da 1ª página | ≥ 20 | 0 | |
 | 11-14 05:22 | fora da 1ª página | ≥ 20 | 0 | |
 | 11-13 22:17 | fora da 1ª página | ≥ 20 | 0 | |
 | 11-13 17:55 | 7ª | 3 | 14 | |
@@ -122,5 +123,4 @@ Em 15% das 174 leituras estávamos no topo.
 | 11-11 22:53 | fora da 1ª página | ≥ 20 | 0 | |
 | 11-11 17:54 | 4ª | 0 | 16 | |
 | 11-11 11:07 | 4ª | 0 | 16 | |
-| 11-11 03:05 | fora da 1ª página | ≥ 20 | 0 | |
 
